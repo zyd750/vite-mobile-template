@@ -1,0 +1,30 @@
+
+:root {
+  --yu-linear-bg-color: linear-gradient(to right, #36D7B7, #3498DB);
+  --yu-linear-bg-color-light: linear-gradient(to right, rgba(54,215,183,0.5), rgba(52,152,219,0.5));
+  --yu-yellow-color: #f5c156;
+  --yu-yellow-color--light: #f5ca69;
+  --yu-yellow-color--dark: #f5b50f;
+  --yu-yellow-color--disabled: #f5e590;
+  --yu-yellow-color--high: #f4d917;
+  
+  --yu-white-color: #fff;
+  --yu-dark-color: #343434;
+  --yu-red-color: #F5222D;
+  --yu-danger-color: #f84610;
+  --yu-green-color: #44B035;
+  --yu-gray-color: #c0c4cc; /*用于表单 密码框 -- 显示/隐藏图标*/
+  --yu-gray-color--light: #eee;
+  
+  --yu-font-color--dark: #242D3D;
+  
+  /*阴影*/
+  --yu-border-shadow--light: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+$white:#fff;
+
+
+:export {
+  //white: $white;
+}
