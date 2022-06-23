@@ -8,9 +8,11 @@ Vite Vant Template 是一个免费开源的移动端模版。使用了最新的`
 
 2. 基础布局封装  layout
 
-3. coskies封装
+3. cookies封装
 
 4. 权限模块封装
 
 5. 基础组件封装
+
+6. 常用工具类封装
 ~~~
